@@ -8,7 +8,7 @@ fwrite($handle, "\r\n");
 }
 fwrite($handle, "\r\n\n\n\n");
 fclose($handle);
-echo '<meta http-equiv="refresh" content="0;URL=alsherawy.me/suggestions.html" />';
+echo '<meta http-equiv="refresh" content="0;URL=suggestions.html" />';
 
 
 
